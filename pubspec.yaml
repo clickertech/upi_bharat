@@ -2,6 +2,7 @@ name: upi_bharat
 description: A flutter plugin for UPI transaction using installed UPI apps.
 version: 0.0.1
 author: Vinod Vishwakarma<vinod@clickertech.in>
+repository: https://github.com/ClickerTech/upi_bharat
 homepage: https://github.com/ClickerTech/upi_bharat
 
 environment:
